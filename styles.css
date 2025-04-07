@@ -198,3 +198,8 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+#img5{
+    height:30% ;
+    width: 30%;
+}
